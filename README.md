@@ -15,7 +15,7 @@
 
 - 💬 Ask me about **C,C++,Java,Python,HTML,CSS,JS,SQL**
 
-- 📫 You can dm me at **nampallyharish5544@gmail.com**
+- 📫 You can dm me at **vikaskurimelly.com**
 
 - ⚡ Fun fact about me: **I Think I'm Funny.But Not,Because I'm Introvert🤪**
 
