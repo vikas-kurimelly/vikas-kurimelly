@@ -1,7 +1,7 @@
-<h1 align="center">Hi 👋, I'm Nampally Harish</h1>
+<h1 align="center">Hi 👋, I'm Kurimelly Vikas</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
 <img align="left" alt="coding" width="400" src="animated.gif">
-<p align="left"> <a href="https://twitter.com/nampallyharish6" target="blank"><img src="https://img.shields.io/twitter/follow/nampallyharish6?logo=twitter&style=for-the-badge" alt="nampallyharish6" /></a> </p>
+<p align="left"> <a href="https://twitter.com/vikas_kurimelly" target="blank"><img src="https://img.shields.io/twitter/follow/vikas_kurimelly?logo=twitter&style=for-the-badge" alt="vikas_kurimelly" /></a> </p>
 <h2 align="left">🔥Updates</h2>
 <h3>• 🌱 I’m currently learning
 <br>∆ Full Stack Web Development
@@ -22,14 +22,13 @@
 <h3>Speaks
 <br>English
 <br>Telugu
-<br>Hindi
-<br>Tamil</h3>
+<br>Hindi</h3>
 <h2 align="left">lets Connect 🤝</h>
 <p align="left">
-<a href="https://twitter.com/nampallyharish6" target="blank"><img align="center" src="twitter.svg" alt="nampallyharish6" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/nampallyharish" target="blank"><img align="center" src="linkedin.svg" alt="nampallyharish" height="30" width="40" /></a>
-<a href="https://www.facebook.com/nampallyharish143.L?mibextid=ZbWKwL" target="blank"><img align="center" src="facebook.svg" alt="nampally harish" height="30" width="40" /></a>
-<a href="https://instagram.com/__divine__monster_" target="blank"><img align="center" src="instagram.svg" alt="__divine__monster_" height="30" width="40" /></a>
+<a href="https://twitter.com/vikas_kurimelly" target="blank"><img align="center" src="twitter.svg" alt="nampallyharish6" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/vikas-kurimelly" target="blank"><img align="center" src="linkedin.svg" alt="nampallyharish" height="30" width="40" /></a>
+<a href="https://www.facebook.com/profile.php?id=100023361258912" target="blank"><img align="center" src="facebook.svg" alt="nampally harish" height="30" width="40" /></a>
+<a href="https://instagram.com/vikas.k_2304" target="blank"><img align="center" src="instagram.svg" alt="__divine__monster_" height="30" width="40" /></a>
 </p>
 <h1 align="left">Tech Stack💻</h1>
 <h3 align="left">Languages</h3>
@@ -55,8 +54,8 @@
   <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="linux.svg" alt="linux" width="40" height="40"/> </a>
   <a href="https://www.canva.com/" target="_blank" rel="noreferrer"> <img src="canva.svg" alt="canva" width="40" height="40"/> </a>
 </p>
-</br> <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=nampallyharish4&show_icons=true&locale=en&layout=compact" alt="Nampally-Harish" /></p>
+</br> <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=vikas-kurimelly&show_icons=true&locale=en&layout=compact" alt="Nampally-Harish" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=nampallyharish4&show_icons=true&locale=en" alt="Nampally-Harish" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=vikas-kurimelly&show_icons=true&locale=en" alt="Nampally-Harish" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=nampallyharish4&" alt="Nampally-Harish" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=vikas-kurimelly&" alt="Nampally-Harish" /></p>
