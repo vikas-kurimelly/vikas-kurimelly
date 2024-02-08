@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Kurimelly Vikas</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
-<img align="left" alt="coding" width="400" src="animated.gif" padding="20px">
+<img align="left" alt="coding" width="400" src="animated.gif" padding-left="20px">
 <p align="left"> <a href="https://twitter.com/vikas_kurimelly" target="blank"><img src="https://img.shields.io/twitter/follow/vikas_kurimelly?logo=twitter&style=for-the-badge" alt="vikas_kurimelly" /></a> </p>
 <h2 align="left" margin-left="10px">🔥Updates</h2>
 <h3>• 🌱 I’m currently learning
