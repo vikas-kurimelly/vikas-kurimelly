@@ -1,8 +1,8 @@
 <h1 align="center">Hi 👋, I'm Kurimelly Vikas</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
-<img align="left" alt="coding" width="400" src="animated.gif" padding-left="20px">
+<img align="left" alt="coding" width="400" src="animated.gif">
 <p align="left"> <a href="https://twitter.com/vikas_kurimelly" target="blank"><img src="https://img.shields.io/twitter/follow/vikas_kurimelly?logo=twitter&style=for-the-badge" alt="vikas_kurimelly" /></a> </p>
-<h2 align="left" margin-left="10px">🔥Updates</h2>
+<h2 align="left">🔥Updates</h2>
 <h3>• 🌱 I’m currently learning
 <br>∆ Full Stack Web Development
 <br>∆ Prompt Engineering
@@ -26,7 +26,7 @@
 <h2 align="left">lets Connect 🤝</h>
 <p align="left">
 <a href="https://twitter.com/vikas_kurimelly" target="blank"><img align="center" src="twitter.svg" alt="nampallyharish6" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/vikas-kurimelly" target="blank"><img align="center" src="linkedin.svg" alt="nampallyharish" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/vikas-kurimelly-b4a165259/" target="blank"><img align="center" src="linkedin.svg" alt="nampallyharish" height="30" width="40" /></a>
 <a href="https://www.facebook.com/profile.php?id=100023361258912" target="blank"><img align="center" src="facebook.svg" alt="nampally harish" height="30" width="40" /></a>
 <a href="https://instagram.com/vikas.k_2304" target="blank"><img align="center" src="instagram.svg" alt="__divine__monster_" height="30" width="40" /></a>
 </p>
