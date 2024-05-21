@@ -13,7 +13,7 @@
 <br>∆ UI/UX Design
 <br>∆ Cloud Computing</h3>
 
-- 💬 Ask me about **C,C++,Java,Python,HTML,CSS,JS,SQL**
+- 💬 Ask me about **C,C++,Java,Python,HTML,CSS,JS,SQL,DJANGO,BOOTSTRAP**
 
 - 📫 You can dm me at **vikaskurimelly.com**
 
