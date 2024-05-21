@@ -25,10 +25,10 @@
 <br>Hindi</h3>
 <h2 align="left">lets Connect 🤝</h>
 <p align="left">
-<a href="https://twitter.com/vikas_kurimelly" target="blank"><img align="center" src="twitter.svg" alt="nampallyharish6" height="30" width="40" /></a>
-<a href="https://www.linkedin.com/in/vikas-kurimelly-b4a165259/" target="blank"><img align="center" src="linkedin.svg" alt="nampallyharish" height="30" width="40" /></a>
-<a href="https://www.facebook.com/profile.php?id=100023361258912" target="blank"><img align="center" src="facebook.svg" alt="nampally harish" height="30" width="40" /></a>
-<a href="https://instagram.com/vikas.k_2304" target="blank"><img align="center" src="instagram.svg" alt="__divine__monster_" height="30" width="40" /></a>
+<a href="https://twitter.com/vikas_kurimelly" target="blank"><img align="center" src="twitter.svg" alt="vikas kurimelly" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/vikas-kurimelly-b4a165259/" target="blank"><img align="center" src="linkedin.svg" alt="vikas kurimelly" height="30" width="40" /></a>
+<a href="https://www.facebook.com/profile.php?id=100023361258912" target="blank"><img align="center" src="facebook.svg" alt="vikas kurimelly" height="30" width="40" /></a>
+<a href="https://instagram.com/vikas.k_2304" target="blank"><img align="center" src="instagram.svg" alt="vikas.k_2304" height="30" width="40" /></a>
 </p>
 <h1 align="left">Tech Stack💻</h1>
 <h3 align="left">Languages</h3>
@@ -41,6 +41,7 @@
   <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="java.svg" alt="java" width="40" height="40"/> </a></br>
   <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="javascript.svg" alt="javascript" width="40" height="40"/> </a>
   <a href="https://www.php.net" target="_blank" rel="noreferrer"> <img src="php.svg" alt="php" width="40" height="40"/> </a> 
+  <a href="https://www.djangoproject.com" target="_blank" rel="noreferrer"> <img src="https://www.vhv.rs/dpng/d/208-2081416_django-development-png-transparent-django-logo-png-download.png" alt="django" height="40" /> </a>
   <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="python.svg" alt="python" width="40" height="40"/> </a> </p>
 <h3 align="left">Tools</h3>
 <p align="left"> <a href="https://developer.android.com" target="_blank" rel="noreferrer"> <img src="android-studio.svg" alt="android" width="40" height="40"/> </a> 
