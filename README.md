@@ -55,8 +55,8 @@
   <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="linux.svg" alt="linux" width="40" height="40"/> </a>
   <a href="https://www.canva.com/" target="_blank" rel="noreferrer"> <img src="canva.svg" alt="canva" width="40" height="40"/> </a>
 </p>
-</br> <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=vikas-kurimelly&show_icons=true&locale=en&layout=compact" alt="Nampally-Harish" /></p>
+</br> <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=vikas-kurimelly&show_icons=true&locale=en&layout=compact" alt="" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=vikas-kurimelly&show_icons=true&locale=en" alt="Nampally-Harish" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=vikas-kurimelly&show_icons=true&locale=en" alt="" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=vikas-kurimelly&" alt="Nampally-Harish" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=vikas-kurimelly&" alt="" /></p>
